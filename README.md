@@ -1,11 +1,12 @@
 # Integradora
 
 Para correr el programa:
-
+- Descargar Archivos de Server y Simulacion desde Github
+- 
 - Abrir UnityPackage
 
 - Abrir la escena Integradora
-- Abrir los archivos (Script) Simulation, Server 
+
 - Correr Server
 - Correr Simulation
 - Correr el Unity
